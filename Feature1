@@ -1,2 +1,11 @@
-
-Cd:also known as chdir - to change current working directory
+Cd - also known as chdir - to change current working directory
+Mkdir - make directory 
+Cp - copy files or directory
+Pwd - prints working directory 
+Mv - move file, files or directories 
+Rm - remove files or directories
+History - when used with no options, it prints the history list.
+Home directory and ~ - in order to go to your home directory use cd~
+file paths in linux - a file path is a human-readable representation of a file or folder’s location on a computer system.
+Using the tab key to complete file paths - tab key completion will allow you to speed up typing commands, and file paths. For example: If we have a long  complex file name beginning with the letter L we would just have to type L and press tab to automatically complete it, however if we have multiple files that begin with L we would just have to type a little bit more of the file lil.
+Using up and down arrow for history - used to scroll/browse through your recent command history 
