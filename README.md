@@ -19,7 +19,7 @@
 	- Ninth commit:
 	- Tenth commit: 
  
-- **Section 2: Erika Reyes** [Section 2](Section2.md)
+- **Section 2: Erika Reyes** [Section 2](miniproject1-practice/section2.md)
 	- First commit:
 	- Second commit:
 	- Third commit:
