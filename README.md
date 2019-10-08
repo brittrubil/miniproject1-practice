@@ -6,9 +6,10 @@
 - Brittani Rubil - bmb23@njit.edu
 - Christine Gonzales - cg87@njit.edu
 - Erika Reyes - elr22@njit.edu
-<br><br>
+<br>
 
 - [Task List](/taskList.md)
+- [References](/references.md)
 
 - **Section 1: Christine Gonzales** [Section 1](/Section1.md)
 	- First commit:Feature: Added CD Definition
