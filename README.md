@@ -1,2 +1,2 @@
 # miniproject1-practice
-Part: **1**
+Section: **1**
