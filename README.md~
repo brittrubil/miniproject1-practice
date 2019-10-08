@@ -19,7 +19,7 @@
 	- Ninth commit:
 	- Tenth commit: 
  
-- **Section 2: Erika Reyes**
+- **Section 2: Erika Reyes** [here](README.md)
 	- First commit:
 	- Second commit:
 	- Third commit:
