@@ -27,7 +27,10 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	- _Example:_  In the command line, history would be typed in. A print listing of all action taken within the session should populate. 
 
 - **Home Directory:** is the base for the directory. The default is usually the users name.  To move back to the home directory cd~ would be used. 
-	- _Examples:_ If the home path were /home/Susan then to get back home from another directory in the command line enter cd~ to be returned home.  
+	- _Example:_ If the home path were /home/Susan then to get back home from another directory in the command line enter cd~ to be returned home.  
+
+- **File Paths:** in Linux are a human-readable representation of a file or folder’s location on a computer system.
+	- _Example:_ File path - /home/Susan/work/test/
 
 
 	
