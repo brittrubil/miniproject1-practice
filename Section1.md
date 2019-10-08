@@ -15,5 +15,5 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	- _Example:_ To copy file abc.txt into file xyz.txt the following would need to be entered: cp abc.txt xyz.txt
 	
 - **PWD:** command stands for the present working directory. It will show you once pwd is entered which directory you are currently working in. 
-	- _Example:_Enter pwd on the command line. After you will get the directory you ae currently working in. 
+	- _Example:_ Enter pwd on the command line. After you will get the directory you ae currently working in. 
 
