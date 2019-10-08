@@ -8,7 +8,7 @@
 - Erika Reyes - elr22@njit.edu
 <br><br>
 
-- **Section 1: Christine Gonzales**
+- **Section 1: Christine Gonzales** [Section 1](https://github.com/brittrubil/miniproject1-practice/blob/Section1/section1.md)
 	- First commit:Feature: Added CD Definition
 	- Second commit: Feature: Added Mkdir Definition
 	- Third commit: Feature: Added CP Definition
