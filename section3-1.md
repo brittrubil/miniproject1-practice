@@ -14,3 +14,13 @@
 2. Pull Request
 
 - Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow up commits before your changes are merged into the base branch.
+
+3. Adding a Collaborator to a Github Repo
+
+1. Navigate to the repository on Github you wish to share with your collaborator.
+2. Click on the "Settings" tab on the right side of the menu at the top of the screen.
+3. On the new page, click the "Collaborators" menu item on the left side of the page.
+4. Start typing the new collaborator's GitHub username into the text box.
+5. Select the GitHub user from the list that appears below the text box.
+6. Click the "Add" button.
+
