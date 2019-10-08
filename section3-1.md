@@ -9,4 +9,8 @@
   - When you create a new repository on GitHub, it exists as a remote location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project. 
   - Unlike forking, you won't be able to pull down changes from the original repository you cloned from, and if the project is owned by someone else you won't be able to contribute back to it unless you are specifically invited as a collaborator. Cloning is ideal for instances when you need a way to quickly get your own copy of a repository where you may not be contributing to the original project.
 
-  - **Example:** To clone a repository, you need to go to the main page of your project and click the Clone or Download button to get the respository’s HTTPS or SSH url. Then, you need to open your command line or terminal and use the ‘git clone’ command to clone your repository. 
+  - **Example:** To clone a repository, you need to go to the main page of your project and click the Clone or Download button to get the respository’s HTTPS or SSH url. Then, you need to open your command line or terminal and use the ‘git clone’ command to clone your repository.
+
+2. Pull Request
+
+- Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow up commits before your changes are merged into the base branch.
