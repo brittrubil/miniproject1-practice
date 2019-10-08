@@ -9,15 +9,19 @@
 <br><br>
 
 - **Section 1: Christine Gonzales**
-	- First commit:
-	- Second commit:
-	- Third commit:
-	- Fourth commit:
-	- Sixth commit:
-	- Seventh commit:
-	- Eighth commit:
-	- Ninth commit:
-	- Tenth commit: 
+	- First commit:Feature: Added CD Definition
+	- Second commit: Feature: Added Mkdir Definition
+	- Third commit: Feature: Added CP Definition
+	- Fourth commit: Feature: Added PWD Definition
+	- Sixth commit: Feature: Added MV Definition
+	- Seventh commit: Feature Added RM Definition 
+	- Eighth commit: Feature: Added History Definition
+	- Ninth commit: Feature: Added Home Directory Definition 
+	- Tenth commit: Feature: Added File Paths Definition
+	- Eleventh Commit: Feature: Added using tab key Definition
+	- Twelfth Commit: Feature: Added using up and down definition
+	- Thirteenth Commit: Feature: Added references 
+
  
 - **Section 2: Erika Reyes** [Section 2](https://github.com/brittrubil/miniproject1-practice/blob/Section2/section2.md)
 	- First commit: Feature: Repository and clone definitio
