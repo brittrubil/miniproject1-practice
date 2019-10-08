@@ -8,4 +8,4 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 
 -**Mkdir:** is used to make a new directory. Making a new directory is similar to having folders to help better organize the model. In order to create a new directory the following command would be entered : mkdir [dir-name]
 
-	- _Example:_: In order to make a new directory names New, the following command would be entered mkdir New 1
+	- _Example:_ In order to make a new directory names New, the following command would be entered mkdir New 1
