@@ -1,51 +1,53 @@
 **Section 1: Christine**
 <br> 
-Workflow and have a section to define and give examples of how to use the following Git commands and terminology:.
+Section that explains commands and gives example(s) usage for use Vi to create and edit files on Linux and the basic commands that you need to manage the file system.
 
-- **Repository:** It is a git/file location where all the files are stored.
+- **Cd:** is the command line to change the current working directory. It is also known as the chdir. Within a file system there could potentially be more than one directory. In order to be able to move around the command cd would be needed. It would be cd [directory-name].
 
-	- _Example:_ A repository tracks all changes made to file in the project, building a history over time. Meaning, if you delete .git/ folder, then you delete your projects history.
+	- _Example:_ Working in directory 456 and needing to move to directory 654 the following would need to be entered as the command: cd 654
 
-- **Clone (git clone ):** It is a command line utility that is used to target an existing repository and create a clone or copy of the target repository.
+- **Mkdir:** is used to make a new directory. Making a new directory is similar to having folders to help better organize the model. In order to create a new directory the following command would be entered : mkdir [dir-name]
 
- 	- _Example:_ Make a clone of a repository in a new directory at another location. The original repository can be located on the local filesystem or on remote machine.
+ 	- _Example:_  In order to make a new directory names New, the following command would be entered mkdir New 1
 
-- **Fork:** It is a copy of a repository that allows you to freely experiment with changes without affecting the original project. 
-	- _Example:_ A developer create a fork copy in their local system.
+- **CP:** is used to copy files or directory into another file. The command would need to be entered as follows: cp [Src_file] [Dest_file]
 
-- **Branch (git branch):** A git branch command lets you create, list, rename and delete branches in the current repository.
-	- _Example:_ A branch represents an independent line of development.
+	- _Example:_ To copy file abc.txt into file xyz.txt the following would need to be entered: cp abc.txt xyz.txt
 
-- **Commit (git commit):** A git commit command is used to save changes to the local repository.
-	- _Example:_ the command git commit -m ‘type your message’ records or snapshots the file permanently in the version history.
+- **PWD:** command stands for the present working directory. It will show you once pwd is entered which directory you are currently working in. 
+	- _Example:_Enter pwd on the command line. After you will get the directory you ae currently working in. 
 
-- **Merge (git merge):** Allow to combine multiple sequences of commits into one unified history.
-	- _Example:_ the command git merge (branchName) lets you take the independent lines of development created by git branch and integrate them into a single branch.
+- **MV:** moves files or directories from one location to another. The command would be listed as follows: mv [OPTIONS] source destination
+	- _Example:_ In order to move file 456.txt to directory /test the following command would be entered: mv 456.txt /test
 
-- **Checkout:**  It is used to switch from one branch to another.
-	_Example:_ the git checkout (branchName) command lets you navigate between the branches created.
+- **RM:** removes the files or directories. It would be used to delete those files or directories indicated. This would be done once they are no longer needed. To removed the following command would need to be entered: rm filename
+	- _Example:_ In removing file wrong.txt, the following would be entered rm wrong.txt
 
-- **Push:** It is to push commits made on your local branch to a remote repository. 
-	- _Examples:_
-		- The git push (variable name) master command sends the committed changes of master branch to your remote repository.
-		- The git push (variable name) branch command sends the branch commits to your remote repository  
-		- The git push -all (variable name) command pushes all branches to your remote repository 
-		- The git push (variable name) : (branchName) command deletes a branch on your remote repository. 
+- **History:**  is the base for the directory. The default is usually the users name.  To move back to the home directory cd~ would be used
+	_Example:_ In the command line, history would be typed in. A print listing of all action taken within the session should populate. 
 
-- **Pull:** It is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
-	- _Example:_ git  pull command update current local branch and update the remote tracking branches for all other branches.
+- **Home Directory:** is the base for the directory. The default is usually the users name.  To move back to the home directory cd~ would be used. 
+	- _Examples:_ If the home path were /home/Susan then to get back home from another directory in the command line enter cd~ to be returned home.  
 
-- **Remote:** it is a common repository that all team members use to exchange their changes.
-	- _Example:_
-		- Remote Add: adds a remote named for the repository at url.
-		- Remote remove: Rename the remote names 
-		- Remote Show: Provide information about the remote.
+- **File Paths:** in Linux are a human-readable representation of a file or folder’s location on a computer system.
+	- _Example:_ File path - /home/Susan/work/test/
+	
+- **Using the tab key to complete file paths :** will allow you to speed up typing commands, and file paths. 
+	- _Example:_ If we have a long  complex file name beginning with the letter L we would just have to type L and press tab to automatically complete it, however if we have multiple files that begin with L we would just have to type a little bit more of the file.
 
-- **Status:** Displays the state of the working directory and the staging area. 
-	- _Example:_ The git status command shows you what’s been going on git add and git commit, also relevant instructions for staging/unstaging files.
+- **Using up and down arrow for history:** is used to scroll/browse through your recent command history.
+	- _Example:_ To review history scroll using the up and down arrow. 
 
-- **Master Branch:** it is a default branch name in Git.
-	- _Example:_ As you start making commits, you’re given a master branch that points to the last commit you made, thus every time you commit, the master branch pointer moves forward automatically.
+- **References:** 
+1.	https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/
+2.	https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/
+3.	https://opensource.com/article/18/6/history-command
+4.	http://www.linfo.org/home_directory.html
+5.	https://opensource.com/article/19/8/understanding-file-paths-linux
+6.	https://linuxjourney.com/lesson/print-working-directory-pwd-command#
+7.	https://linuxjourney.com/lesson/history-command
+
+	- 
 
 
 
