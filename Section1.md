@@ -24,6 +24,6 @@ Section that explains commands and gives example(s) usage for use Vi to create a
 	- _Example:_ In removing file wrong.txt, the following would be entered rm wrong.txt
 
 - **History:**  is the base for the directory. The default is usually the users name.  To move back to the home directory cd~ would be used
-	-_Example:_ In the command line, history would be typed in. A print listing of all action taken within the session should populate. 
+	- _Example:_  In the command line, history would be typed in. A print listing of all action taken within the session should populate. 
 
 	
