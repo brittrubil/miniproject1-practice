@@ -50,4 +50,9 @@
     - If you like to merge often you can use git rerere. It means reuse recorded resolution. Basically it records a merge conflict that has been resolved and reuses it again when that merge conflicts happens again. This means that we do not waste time solving recurring merge conflicts.
 
     $ git rerere 
+    - $ git rerere
+
+```
+$ git rerere
+```
 
